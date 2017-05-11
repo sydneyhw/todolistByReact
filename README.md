@@ -1,1 +1,3 @@
-使用方法：npm install npm start
+### 使用方法：
+npm install 
+webpack
